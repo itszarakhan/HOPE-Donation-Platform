@@ -97,7 +97,7 @@ HOPE addresses this issue by providing a **secure, organized, and transparent do
 
 ### Step 1: Clone the repository
 ```bash
-git clone https://github.com/your-username/hope-donation-platform.git
+git clone https://github.com/itszarakhan/HOPE-Donation-Platform.git
 cd hope-donation-platform
 ```
 
